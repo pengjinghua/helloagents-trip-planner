@@ -1,0 +1,17 @@
+# 忽略敏感信息文件
+.env
+*.log
+config.json
+
+# 忽略依赖库
+node_modules/
+venv/
+.venv/
+env/
+__pycache__/
+
+# 忽略操作系统和编辑器缓存
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
