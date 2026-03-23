@@ -1,0 +1,105 @@
+﻿sample_id,name,city,category,baseline_query,baseline_url,baseline_description,baseline_relevant,baseline_judge_raw,baseline_zero_recall,baseline_hallucination,heuristic_query,heuristic_url,heuristic_description,heuristic_relevant,heuristic_judge_raw,heuristic_zero_recall,heuristic_hallucination
+cn-001,故宫,北京,历史文化,故宫,https://images.unsplash.com/photo-1636550230446-7632d97d1e77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTYlOTUlODUlRTUlQUUlQUJ8ZW58MXwwfHx8MTc3Mzg0NTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080,故宫雪景,True,1,False,False,故宫 北京,https://images.unsplash.com/photo-1620826502427-9e8faa18d3f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxMHx8JUU2JTk1JTg1JUU1JUFFJUFCJTIwJUU1JThDJTk3JUU0JUJBJUFDfGVufDF8MHx8fDE3NzM4NDUwMjd8MA&ixlib=rb-4.1.0&q=80&w=1080,北京故宫博物院,True,1,False,False
+cn-002,天坛,北京,历史文化,天坛,https://images.unsplash.com/photo-1584872589930-e99fe5bf4408?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTUlQTQlQTklRTUlOUQlOUJ8ZW58MXwwfHx8MTc3Mzg0NTAzMHww&ixlib=rb-4.1.0&q=80&w=1080,"The Temple of Heaven, Beijing, China.",True,1,False,False,天坛 北京,https://images.unsplash.com/photo-1620033370499-c85e0122f1fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHw3fHwlRTUlQTQlQTklRTUlOUQlOUIlMjAlRTUlOEMlOTclRTQlQkElQUN8ZW58MXwwfHx8MTc3Mzg0NTAzNHww&ixlib=rb-4.1.0&q=80&w=1080,北京天坛公园,False,0,False,True
+cn-003,颐和园,北京,历史文化,颐和园,https://images.unsplash.com/photo-1669382485231-ef86d9fa986f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTklQTIlOTAlRTUlOTIlOEMlRTUlOUIlQUR8ZW58MXwwfHx8MTc3Mzg4MzM5M3ww&ixlib=rb-4.1.0&q=80&w=1080,北京颐和园,True,1,False,False,颐和园 北京,https://images.unsplash.com/photo-1620822102340-47c32da50fef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHwlRTklQTIlOTAlRTUlOTIlOEMlRTUlOUIlQUQlMjAlRTUlOEMlOTclRTQlQkElQUN8ZW58MXwwfHx8MTc3Mzg4MzM5NHww&ixlib=rb-4.1.0&q=80&w=1080,北京颐和园,True,1,False,False
+cn-004,八达岭长城,北京,历史文化,八达岭长城,,,False,,True,False,Great Wall Beijing China,https://images.unsplash.com/photo-1724076202408-bfa5548a2b1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHw2fHxHcmVhdCUyMFdhbGwlMjBCZWlqaW5nJTIwQ2hpbmF8ZW58MXwwfHx8MTc3Mzg4MzQwOHww&ixlib=rb-4.1.0&q=80&w=1080,"The Great Wall is a must for a China tour, while Badaling is a must for a Great Wall tour. Badaling Great Wall in Beijing is the best-preserved and most complete section among the various, hence the most popular, even among world leaders.",True,1,False,False
+cn-005,圆明园,北京,历史文化,圆明园,https://images.unsplash.com/photo-1660531076440-f92c01c325d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTUlOUMlODYlRTYlOTglOEUlRTUlOUIlQUR8ZW58MXwwfHx8MTc3Mzg5MTM2M3ww&ixlib=rb-4.1.0&q=80&w=1080,a stone structure with columns with Old Summer Palace in the background,True,1,False,False,圆明园 北京,https://images.unsplash.com/photo-1603258485726-75b7c1d7c085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHwlRTUlOUMlODYlRTYlOTglOEUlRTUlOUIlQUQlMjAlRTUlOEMlOTclRTQlQkElQUN8ZW58MXwwfHx8MTc3Mzg5MTM2NHww&ixlib=rb-4.1.0&q=80&w=1080,北京圆明园,False,0,False,True
+cn-006,恭王府,北京,历史文化,恭王府,https://images.unsplash.com/photo-1612790074468-6e5bcb750683?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTYlODElQUQlRTclOEUlOEIlRTUlQkElOUN8ZW58MXwwfHx8MTc3Mzg5MTM4Mnww&ixlib=rb-4.1.0&q=80&w=1080,恭王府,False,0,False,True,恭王府 北京,https://images.unsplash.com/photo-1613292936232-8be069f4b285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHw0fHwlRTYlODElQUQlRTclOEUlOEIlRTUlQkElOUMlMjAlRTUlOEMlOTclRTQlQkElQUN8ZW58MXwwfHx8MTc3Mzg5MTM4M3ww&ixlib=rb-4.1.0&q=80&w=1080,北京恭王府,False,0,False,True
+cn-007,景山公园,北京,自然风光,景山公园,https://images.unsplash.com/photo-1628001204260-c5df3cc58f02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTYlOTklQUYlRTUlQjElQjElRTUlODUlQUMlRTUlOUIlQUR8ZW58MXwwfHx8MTc3Mzg5MTM5OXww&ixlib=rb-4.1.0&q=80&w=1080,brown and white concrete house,True,1,False,False,景山公园 北京,https://images.unsplash.com/photo-1630665529944-205c81c03f59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHw0fHwlRTYlOTklQUYlRTUlQjElQjElRTUlODUlQUMlRTUlOUIlQUQlMjAlRTUlOEMlOTclRTQlQkElQUN8ZW58MXwwfHx8MTc3Mzg0MTQ2MXww&ixlib=rb-4.1.0&q=80&w=1080,北京景山公园,True,1,False,False
+cn-008,北海公园,北京,自然风光,北海公园,https://images.unsplash.com/photo-1670908026890-ef7f34a824d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTUlOEMlOTclRTYlQjUlQjclRTUlODUlQUMlRTUlOUIlQUR8ZW58MXwwfHx8MTc3Mzg5MTQ0Nnww&ixlib=rb-4.1.0&q=80&w=1080,北京北海公园,False,0,False,True,北海公园 北京,https://images.unsplash.com/photo-1670908026890-ef7f34a824d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTUlOEMlOTclRTYlQjUlQjclRTUlODUlQUMlRTUlOUIlQUQlMjAlRTUlOEMlOTclRTQlQkElQUN8ZW58MXwwfHx8MTc3Mzg5MTQ0N3ww&ixlib=rb-4.1.0&q=80&w=1080,北京北海公园,False,0,False,True
+cn-009,雍和宫,北京,历史文化,雍和宫,https://images.unsplash.com/photo-1623687020286-86a8b83634d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTklOUIlOEQlRTUlOTIlOEMlRTUlQUUlQUJ8ZW58MXwwfHx8MTc3Mzg5MTQ2NXww&ixlib=rb-4.1.0&q=80&w=1080,gray concrete building under white sky during daytime,False,0,False,True,Lama Temple Beijing China,https://images.unsplash.com/photo-1624653026201-3b1f45742576?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwzfHxMYW1hJTIwVGVtcGxlJTIwQmVpamluZyUyMENoaW5hfGVufDF8MHx8fDE3NzM4OTE0NzF8MA&ixlib=rb-4.1.0&q=80&w=1080,"Beihai Park Lama Temple in Beijing, China",False,0,False,True
+cn-010,国家博物馆,北京,历史文化,国家博物馆,,,False,,True,False,National Museum of China,https://images.unsplash.com/photo-1701847895783-979e086dae5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyME11c2V1bSUyMG9mJTIwQ2hpbmF8ZW58MXwwfHx8MTc3Mzg5MTQ5Mnww&ixlib=rb-4.1.0&q=80&w=1080,a group of people standing in front of a building,False,0,False,True
+cn-011,外滩,上海,城市风光,外滩,https://images.unsplash.com/photo-1718427778421-ad719f965738?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTUlQTQlOTYlRTYlQkIlQTl8ZW58MXwwfHx8MTc3Mzg0NTAzNnww&ixlib=rb-4.1.0&q=80&w=1080,a view of a large city with tall buildings,False,0,False,True,外滩 Shanghai,https://images.unsplash.com/photo-1592311800804-1b72948c1a99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHwlRTUlQTQlOTYlRTYlQkIlQTklMjBTaGFuZ2hhaXxlbnwxfDB8fHwxNzczODQ2NTM1fDA&ixlib=rb-4.1.0&q=80&w=1080,"The Bund
+外滩",True,1,False,False
+cn-012,东方明珠,上海,城市风光,东方明珠,https://images.unsplash.com/photo-1508742066636-3b9fb738ee0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTQlQjglOUMlRTYlOTYlQjklRTYlOTglOEUlRTclOEYlQTB8ZW58MXwwfHx8MTc3Mzg4MzQxOHww&ixlib=rb-4.1.0&q=80&w=1080,body of water beside city,True,1,False,False,东方明珠 Shanghai,https://images.unsplash.com/photo-1509189692239-6c2bb03eac8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxMHx8JUU0JUI4JTlDJUU2JTk2JUI5JUU2JTk4JThFJUU3JThGJUEwJTIwU2hhbmdoYWl8ZW58MXwwfHx8MTc3Mzg4MzQyMXww&ixlib=rb-4.1.0&q=80&w=1080,上海东方明珠,True,1,False,False
+cn-013,豫园,上海,历史文化,豫园,https://images.unsplash.com/photo-1689073248049-8ecdc5431529?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTglQjElQUIlRTUlOUIlQUR8ZW58MXwwfHx8MTc3Mzg5MTUzMHww&ixlib=rb-4.1.0&q=80&w=1080,SHANGHAI’S beauty,True,1,False,False,豫园 Shanghai,https://images.unsplash.com/photo-1609088399054-7661a95fe0e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHw1fHwlRTglQjElQUIlRTUlOUIlQUQlMjBTaGFuZ2hhaXxlbnwxfDB8fHwxNzczODkxNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080,Awesome view of the Shanghai tower form the Yu Garden in Shanghai,True,1,False,False
+cn-014,上海迪士尼乐园,上海,休闲,上海迪士尼乐园,,,False,,True,False,上海迪士尼乐园 Shanghai China,https://images.unsplash.com/photo-1506660889812-c5ba0c735d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxMHx8JUU0JUI4JThBJUU2JUI1JUI3JUU4JUJGJUFBJUU1JUEzJUFCJUU1JUIwJUJDJUU0JUI5JTkwJUU1JTlCJUFEJTIwU2hhbmdoYWklMjBDaGluYXxlbnwxfDB8fHwxNzczODkxNTUwfDA&ixlib=rb-4.1.0&q=80&w=1080,"2017 is Shanghai Big World 100 years
+2017是上海大世界建成100周年",False,0,False,True
+cn-015,南京路步行街,上海,购物,南京路步行街,,,False,,True,False,南京路步行街 Shanghai,https://images.unsplash.com/photo-1598998634242-7acd4af695f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwzfHwlRTUlOEQlOTclRTQlQkElQUMlRTglQjclQUYlRTYlQUQlQTUlRTglQTElOEMlRTglQTElOTclMjBTaGFuZ2hhaXxlbnwxfDB8fHwxNzczODkxNTYwfDA&ixlib=rb-4.1.0&q=80&w=1080,exploring a residential area in Shanghai.,False,0,False,True
+cn-016,上海博物馆,上海,历史文化,上海博物馆,,,False,,True,False,,,,False,,True,False
+cn-017,田子坊,上海,艺术,田子坊,,,False,,True,False,,,,False,,True,False
+cn-018,朱家角古镇,上海,历史文化,朱家角古镇,,,False,,True,False,,,,False,,True,False
+cn-019,上海中心大厦,上海,城市风光,上海中心大厦,,,False,,True,False,,,,False,,True,False
+cn-020,徐家汇天主教堂,上海,历史文化,徐家汇天主教堂,,,False,,True,False,,,,False,,True,False
+cn-021,广州塔,广州,城市风光,广州塔,https://images.unsplash.com/photo-1530021382214-1fc6e31513d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTUlQjklQkYlRTUlQjclOUUlRTUlQTElOTR8ZW58MXwwfHx8MTc3Mzg4MzQzMXww&ixlib=rb-4.1.0&q=80&w=1080,Guangzhou Tower,True,1,False,False,pagoda,https://images.unsplash.com/photo-1528164344705-47542687000d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHxwYWdvZGF8ZW58MXwwfHx8MTc3Mzg4MzQzN3ww&ixlib=rb-4.1.0&q=80&w=1080,Chureito Pagoda,False,0,False,True
+cn-022,陈家祠,广州,历史文化,陈家祠,,,False,,True,False,陈家祠 Guangzhou,https://images.unsplash.com/photo-1730053344240-d18b816a764d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHw0fHwlRTklOTklODglRTUlQUUlQjYlRTclQTUlQTAlMjBHdWFuZ3pob3V8ZW58MXwwfHx8MTc3Mzg4MzQ0M3ww&ixlib=rb-4.1.0&q=80&w=1080,a hidden gem in Guangzhou 🍃,False,0,False,True
+cn-023,沙面岛,广州,历史文化,沙面岛,,,False,,True,False,,,,False,,True,False
+cn-024,越秀公园,广州,自然风光,越秀公园,,,False,,True,False,park,https://images.unsplash.com/photo-1519331379826-f10be5486c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHxwYXJrfGVufDF8MHx8fDE3NzM4OTE0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080,photo of empty park during daytime,False,0,False,True
+cn-025,白云山,广州,自然风光,白云山,,,False,,True,False,,,,False,,True,False
+cn-026,北京路步行街,广州,购物,北京路步行街,,,False,,True,False,,,,False,,True,False
+cn-027,长隆野生动物世界,广州,休闲,长隆野生动物世界,,,False,,True,False,,,,False,,True,False
+cn-028,珠江夜游,广州,城市风光,珠江夜游,https://images.unsplash.com/photo-1560951803-8d0d8c876bff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTclOEYlQTAlRTYlQjElOUYlRTUlQTQlOUMlRTYlQjglQjh8ZW58MXwwfHx8MTc3Mzg4MzQ0N3ww&ixlib=rb-4.1.0&q=80&w=1080,body of water near buildings,False,0,False,True,珠江夜游 Guangzhou,https://images.unsplash.com/photo-1535391879778-3bae11d29a24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHwlRTclOEYlQTAlRTYlQjElOUYlRTUlQTQlOUMlRTYlQjglQjglMjBHdWFuZ3pob3V8ZW58MXwwfHx8MTc3Mzg4MzQ1MHww&ixlib=rb-4.1.0&q=80&w=1080,night mood in guangzhou,True,1,False,False
+cn-029,永庆坊,广州,历史文化,永庆坊,,,False,,True,False,,,,False,,True,False
+cn-030,南越王博物院,广州,历史文化,南越王博物院,,,False,,True,False,,,,False,,True,False
+cn-031,世界之窗,深圳,休闲,世界之窗,https://images.unsplash.com/photo-1707813130463-31d492f072ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTQlQjglOTYlRTclOTUlOEMlRTQlQjklOEIlRTclQUElOTd8ZW58MXwwfHx8MTc3Mzg4MzQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080,a very large and colorful object with many lights,False,0,False,True,世界之窗 Shenzhen China landmark,https://images.unsplash.com/photo-1684745339800-c4dcd382da98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHw3fHwlRTQlQjglOTYlRTclOTUlOEMlRTQlQjklOEIlRTclQUElOTclMjBTaGVuemhlbiUyMENoaW5hJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc3Mzg4MzQ1OXww&ixlib=rb-4.1.0&q=80&w=1080,"Greener Cities. Li Xiang Park is located in the heart of Nanshan District, Shenzhen, facing Shennan Avenue in the north, Nanshan District Committee Building in the south, Kirin Road in the east, and Sunshine Lijing Building Group in the west, with a total area of 220,000 square meters.",False,0,False,True
+cn-032,锦绣中华民俗村,深圳,历史文化,锦绣中华民俗村,,,False,,True,False,,,,False,,True,False
+cn-033,深圳湾公园,深圳,自然风光,深圳湾公园,https://images.unsplash.com/photo-1651932509246-3a1296cae2f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHwlRTYlQjclQjElRTUlOUMlQjMlRTYlQjklQkUlRTUlODUlQUMlRTUlOUIlQUR8ZW58MXwwfHx8MTc3Mzg4MzQ2MHww&ixlib=rb-4.1.0&q=80&w=1080,Birds  in 深圳湾公园,False,0,False,True,park,https://images.unsplash.com/photo-1519331379826-f10be5486c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHxwYXJrfGVufDF8MHx8fDE3NzM4OTE0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080,photo of empty park during daytime,False,0,False,True
+cn-034,大梅沙海滨公园,深圳,自然风光,大梅沙海滨公园,,,False,,True,False,park,https://images.unsplash.com/photo-1519331379826-f10be5486c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHxwYXJrfGVufDF8MHx8fDE3NzM4OTE0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080,photo of empty park during daytime,False,0,False,True
+cn-035,东部华侨城,深圳,休闲,东部华侨城,,,False,,True,False,,,,False,,True,False
+cn-036,莲花山公园,深圳,自然风光,莲花山公园,,,False,,True,False,park,https://images.unsplash.com/photo-1519331379826-f10be5486c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHxwYXJrfGVufDF8MHx8fDE3NzM4OTE0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080,photo of empty park during daytime,False,0,False,True
+cn-037,平安金融中心观光层,深圳,城市风光,平安金融中心观光层,,,False,,True,False,,,,False,,True,False
+cn-038,梧桐山,深圳,自然风光,梧桐山,,,False,,True,False,,,,False,,True,False
+cn-039,欢乐海岸,深圳,休闲,欢乐海岸,,,False,,True,False,,,,False,,True,False
+cn-040,南头古城,深圳,历史文化,南头古城,,,False,,True,False,,,,False,,True,False
+cn-041,宽窄巷子,成都,历史文化,宽窄巷子,,,False,,True,False,,,,False,,True,False
+cn-042,锦里,成都,历史文化,锦里,,,False,,True,False,,,,False,,True,False
+cn-043,武侯祠,成都,历史文化,武侯祠,,,False,,True,False,,,,False,,True,False
+cn-044,杜甫草堂,成都,历史文化,杜甫草堂,,,False,,True,False,,,,False,,True,False
+cn-045,成都大熊猫繁育研究基地,成都,自然风光,成都大熊猫繁育研究基地,,,False,,True,False,Chengdu Research Base of Giant Panda Breeding Chengdu China,https://images.unsplash.com/photo-1504713721722-f73b4ccdfe6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxMHx8Q2hlbmdkdSUyMFJlc2VhcmNoJTIwQmFzZSUyMG9mJTIwR2lhbnQlMjBQYW5kYSUyMEJyZWVkaW5nJTIwQ2hlbmdkdSUyMENoaW5hfGVufDF8MHx8fDE3NzM4NDY1NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080,"A giant panda cub chilling in a tree at the Chengdu Research Base of Giant Panda Breeding. It was such a fun visit, with the cubs running around and playing with each other and the adults gluttonously eating loads of bamboo.",True,1,False,False
+cn-046,都江堰,成都,历史文化,都江堰,,,False,,True,False,,,,False,,True,False
+cn-047,青城山,成都,自然风光,青城山,,,False,,True,False,,,,False,,True,False
+cn-048,文殊院,成都,历史文化,文殊院,,,False,,True,False,,,,False,,True,False
+cn-049,春熙路,成都,购物,春熙路,,,False,,True,False,,,,False,,True,False
+cn-050,人民公园,成都,休闲,人民公园,,,False,,True,False,park,https://images.unsplash.com/photo-1519331379826-f10be5486c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHxwYXJrfGVufDF8MHx8fDE3NzM4OTE0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080,photo of empty park during daytime,False,0,False,True
+cn-051,洪崖洞,重庆,城市风光,洪崖洞,,,False,,True,False,,,,False,,True,False
+cn-052,磁器口古镇,重庆,历史文化,磁器口古镇,,,False,,True,False,,,,False,,True,False
+cn-053,解放碑,重庆,城市风光,解放碑,,,False,,True,False,,,,False,,True,False
+cn-054,长江索道,重庆,城市风光,长江索道,,,False,,True,False,,,,False,,True,False
+cn-055,武隆天生三桥,重庆,自然风光,武隆天生三桥,,,False,,True,False,,,,False,,True,False
+cn-056,南山一棵树,重庆,自然风光,南山一棵树,,,False,,True,False,,,,False,,True,False
+cn-057,李子坝轻轨观景点,重庆,城市风光,李子坝轻轨观景点,,,False,,True,False,,,,False,,True,False
+cn-058,白公馆,重庆,历史文化,白公馆,,,False,,True,False,,,,False,,True,False
+cn-059,渣滓洞,重庆,历史文化,渣滓洞,,,False,,True,False,,,,False,,True,False
+cn-060,大足石刻,重庆,历史文化,大足石刻,,,False,,True,False,,,,False,,True,False
+cn-061,兵马俑,西安,历史文化,兵马俑,,,False,,True,False,Terracotta Army,https://images.unsplash.com/photo-1527922891260-918d42a4efc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwxfHxUZXJyYWNvdHRhJTIwQXJteXxlbnwxfDB8fHwxNzczODQ2NTQwfDA&ixlib=rb-4.1.0&q=80&w=1080,"In today’s world of easy access information and increasingly amazing imagery you can often be left underwhelmed when seeing something in reality, It was a plesant surprise to find the Terracotta Army did not just live up to the hype but thoroughly exceeded it, a truly awe inspiring site that they have only just scratched the surface of  
+
+The scale of the site and in particular what is still under the ground is mind bending",True,1,False,False
+cn-062,大雁塔,西安,历史文化,大雁塔,,,False,,True,False,,,,False,,True,False
+cn-063,华清宫,西安,历史文化,华清宫,,,False,,True,False,,,,False,,True,False
+cn-064,西安城墙,西安,历史文化,西安城墙,,,False,,True,False,,,,False,,True,False
+cn-065,钟楼,西安,历史文化,钟楼,,,False,,True,False,,,,False,,True,False
+cn-066,鼓楼,西安,历史文化,鼓楼,,,False,,True,False,,,,False,,True,False
+cn-067,大唐不夜城,西安,城市风光,大唐不夜城,,,False,,True,False,,,,False,,True,False
+cn-068,陕西历史博物馆,西安,历史文化,陕西历史博物馆,,,False,,True,False,,,,False,,True,False
+cn-069,碑林博物馆,西安,历史文化,碑林博物馆,,,False,,True,False,,,,False,,True,False
+cn-070,小雁塔,西安,历史文化,小雁塔,,,False,,True,False,pagoda,https://images.unsplash.com/photo-1528164344705-47542687000d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHxwYWdvZGF8ZW58MXwwfHx8MTc3Mzg4MzQzN3ww&ixlib=rb-4.1.0&q=80&w=1080,Chureito Pagoda,False,0,False,True
+cn-071,西湖,杭州,自然风光,西湖,,,False,,True,False,,,,False,,True,False
+cn-072,灵隐寺,杭州,历史文化,灵隐寺,,,False,,True,False,,,,False,,True,False
+cn-073,雷峰塔,杭州,历史文化,雷峰塔,,,False,,True,False,pagoda,https://images.unsplash.com/photo-1528164344705-47542687000d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTgxMzd8MHwxfHNlYXJjaHwyfHxwYWdvZGF8ZW58MXwwfHx8MTc3Mzg4MzQzN3ww&ixlib=rb-4.1.0&q=80&w=1080,Chureito Pagoda,False,0,False,True
+cn-074,西溪湿地,杭州,自然风光,西溪湿地,,,False,,True,False,,,,False,,True,False
+cn-075,宋城,杭州,休闲,宋城,,,False,,True,False,,,,False,,True,False
+cn-076,千岛湖,杭州,自然风光,千岛湖,,,False,,True,False,,,,False,,True,False
+cn-077,河坊街,杭州,历史文化,河坊街,,,False,,True,False,,,,False,,True,False
+cn-078,岳王庙,杭州,历史文化,岳王庙,,,False,,True,False,,,,False,,True,False
+cn-079,龙井村,杭州,自然风光,龙井村,,,False,,True,False,,,,False,,True,False
+cn-080,良渚博物院,杭州,历史文化,良渚博物院,,,False,,True,False,,,,False,,True,False
+cn-081,夫子庙,南京,历史文化,夫子庙,,,False,,True,False,,,,False,,True,False
+cn-082,中山陵,南京,历史文化,中山陵,,,False,,True,False,,,,False,,True,False
+cn-083,明孝陵,南京,历史文化,明孝陵,,,False,,True,False,,,,False,,True,False
+cn-084,总统府,南京,历史文化,总统府,,,False,,True,False,,,,False,,True,False
+cn-085,玄武湖,南京,自然风光,玄武湖,,,False,,True,False,,,,False,,True,False
+cn-086,南京博物院,南京,历史文化,南京博物院,,,False,,True,False,,,,False,,True,False
+cn-087,鸡鸣寺,南京,历史文化,鸡鸣寺,,,False,,True,False,,,,False,,True,False
+cn-088,雨花台,南京,历史文化,雨花台,,,False,,True,False,,,,False,,True,False
+cn-089,老门东,南京,历史文化,老门东,,,False,,True,False,,,,False,,True,False
+cn-090,牛首山,南京,自然风光,牛首山,,,False,,True,False,,,,False,,True,False
+cn-091,黄鹤楼,武汉,历史文化,黄鹤楼,,,False,,True,False,,,,False,,True,False
+cn-092,东湖,武汉,自然风光,东湖,,,False,,True,False,,,,False,,True,False
+cn-093,湖北省博物馆,武汉,历史文化,湖北省博物馆,,,False,,True,False,,,,False,,True,False
+cn-094,武汉大学,武汉,历史文化,武汉大学,,,False,,True,False,,,,False,,True,False
+cn-095,户部巷,武汉,美食,户部巷,,,False,,True,False,,,,False,,True,False
+cn-096,归元寺,武汉,历史文化,归元寺,,,False,,True,False,,,,False,,True,False
+cn-097,木兰天池,武汉,自然风光,木兰天池,,,False,,True,False,,,,False,,True,False
+cn-098,古德寺,武汉,历史文化,古德寺,,,False,,True,False,,,,False,,True,False
+cn-099,晴川阁,武汉,历史文化,晴川阁,,,False,,True,False,,,,False,,True,False
+cn-100,武汉长江大桥,武汉,城市风光,武汉长江大桥,,,False,,True,False,,,,False,,True,False

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bj-forbidden-city",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": ["forbidden city", "palace museum", "故宫", "紫禁城"]
+  },
+  {
+    "id": "bj-temple-heaven",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": ["temple of heaven", "天坛"]
+  },
+  {
+    "id": "sh-the-bund",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": ["the bund", "waitan", "外滩"]
+  },
+  {
+    "id": "xa-terracotta-army",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": ["terracotta", "terracotta army", "兵马俑"]
+  },
+  {
+    "id": "cd-panda-base",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": ["panda", "chengdu research base", "熊猫"]
+  }
+]

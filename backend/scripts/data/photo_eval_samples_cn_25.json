@@ -1,0 +1,33 @@
+[
+  {"id":"cn25-001","name":"故宫","city":"北京","category":"历史文化"},
+  {"id":"cn25-002","name":"天坛","city":"北京","category":"历史文化"},
+  {"id":"cn25-003","name":"颐和园","city":"北京","category":"历史文化"},
+  {"id":"cn25-004","name":"八达岭长城","city":"北京","category":"历史文化"},
+  {"id":"cn25-005","name":"雍和宫","city":"北京","category":"历史文化"},
+
+  {"id":"cn25-006","name":"外滩","city":"上海","category":"城市风光"},
+  {"id":"cn25-007","name":"东方明珠","city":"上海","category":"城市风光"},
+  {"id":"cn25-008","name":"豫园","city":"上海","category":"历史文化"},
+  {"id":"cn25-009","name":"上海迪士尼乐园","city":"上海","category":"休闲"},
+  {"id":"cn25-010","name":"上海博物馆","city":"上海","category":"历史文化"},
+
+  {"id":"cn25-011","name":"广州塔","city":"广州","category":"城市风光"},
+  {"id":"cn25-012","name":"陈家祠","city":"广州","category":"历史文化"},
+  {"id":"cn25-013","name":"白云山","city":"广州","category":"自然风光"},
+  {"id":"cn25-014","name":"珠江夜游","city":"广州","category":"城市风光"},
+  {"id":"cn25-015","name":"长隆野生动物世界","city":"广州","category":"休闲"},
+
+  {"id":"cn25-016","name":"世界之窗","city":"深圳","category":"休闲"},
+  {"id":"cn25-017","name":"深圳湾公园","city":"深圳","category":"自然风光"},
+  {"id":"cn25-018","name":"南头古城","city":"深圳","category":"历史文化"},
+
+  {"id":"cn25-019","name":"宽窄巷子","city":"成都","category":"历史文化"},
+  {"id":"cn25-020","name":"锦里","city":"成都","category":"历史文化"},
+  {"id":"cn25-021","name":"成都大熊猫繁育研究基地","city":"成都","category":"自然风光"},
+
+  {"id":"cn25-022","name":"兵马俑","city":"西安","category":"历史文化"},
+  {"id":"cn25-023","name":"大雁塔","city":"西安","category":"历史文化"},
+
+  {"id":"cn25-024","name":"西湖","city":"杭州","category":"自然风光"},
+  {"id":"cn25-025","name":"黄鹤楼","city":"武汉","category":"历史文化"}
+]

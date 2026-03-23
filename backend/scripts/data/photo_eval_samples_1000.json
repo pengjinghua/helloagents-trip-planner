@@ -1,0 +1,10442 @@
+[
+  {
+    "id": "北京-故宫-0001",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0002",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0003",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0004",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0005",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0006",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0007",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0008",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0009",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0010",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0011",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0012",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0013",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0014",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0015",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0016",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0017",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0018",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0019",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0020",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0021",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0022",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0023",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0024",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0025",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0026",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0027",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0028",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0029",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0030",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0031",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0032",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0033",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0034",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0035",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0036",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0037",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0038",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0039",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0040",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0041",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0042",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0043",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0044",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0045",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0046",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0047",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0048",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0049",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0050",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0051",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0052",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0053",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0054",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0055",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0056",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0057",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0058",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0059",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0060",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0061",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0062",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0063",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0064",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0065",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0066",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0067",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0068",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0069",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0070",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0071",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0072",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0073",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0074",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0075",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0076",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0077",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0078",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0079",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0080",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0081",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0082",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0083",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0084",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0085",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0086",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0087",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0088",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0089",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0090",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0091",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0092",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0093",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0094",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0095",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0096",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0097",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0098",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0099",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0100",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0101",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0102",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0103",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0104",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0105",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0106",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0107",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0108",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0109",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0110",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0111",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0112",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0113",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0114",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0115",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0116",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0117",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0118",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0119",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0120",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0121",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0122",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0123",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0124",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0125",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0126",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0127",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0128",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0129",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0130",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0131",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0132",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0133",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0134",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0135",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0136",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0137",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0138",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0139",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0140",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0141",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0142",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0143",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0144",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0145",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0146",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0147",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0148",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0149",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0150",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0151",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0152",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0153",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0154",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0155",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0156",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0157",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0158",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0159",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0160",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0161",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0162",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0163",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0164",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0165",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0166",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0167",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0168",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0169",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0170",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0171",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0172",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0173",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0174",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0175",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0176",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0177",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0178",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0179",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0180",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0181",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0182",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0183",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0184",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0185",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0186",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0187",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0188",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0189",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0190",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0191",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0192",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0193",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0194",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0195",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0196",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0197",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0198",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0199",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0200",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0201",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0202",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0203",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0204",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0205",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0206",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0207",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0208",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0209",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0210",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0211",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0212",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0213",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0214",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0215",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0216",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0217",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0218",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0219",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0220",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0221",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0222",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0223",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0224",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0225",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0226",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0227",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0228",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0229",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0230",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0231",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0232",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0233",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0234",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0235",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0236",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0237",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0238",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0239",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0240",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0241",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0242",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0243",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0244",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0245",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0246",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0247",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0248",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0249",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0250",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0251",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0252",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0253",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0254",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0255",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0256",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0257",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0258",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0259",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0260",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0261",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0262",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0263",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0264",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0265",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0266",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0267",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0268",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0269",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0270",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0271",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0272",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0273",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0274",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0275",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0276",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0277",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0278",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0279",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0280",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0281",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0282",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0283",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0284",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0285",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0286",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0287",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0288",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0289",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0290",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0291",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0292",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0293",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0294",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0295",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0296",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0297",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0298",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0299",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0300",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0301",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0302",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0303",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0304",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0305",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0306",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0307",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0308",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0309",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0310",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0311",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0312",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0313",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0314",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0315",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0316",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0317",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0318",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0319",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0320",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0321",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0322",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0323",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0324",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0325",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0326",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0327",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0328",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0329",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0330",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0331",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0332",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0333",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0334",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0335",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0336",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0337",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0338",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0339",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0340",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0341",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0342",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0343",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0344",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0345",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0346",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0347",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0348",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0349",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0350",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0351",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0352",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0353",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0354",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0355",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0356",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0357",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0358",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0359",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0360",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0361",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0362",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0363",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0364",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0365",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0366",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0367",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0368",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0369",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0370",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0371",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0372",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0373",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0374",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0375",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0376",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0377",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0378",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0379",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0380",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0381",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0382",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0383",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0384",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0385",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0386",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0387",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0388",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0389",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0390",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0391",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0392",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0393",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0394",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0395",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0396",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0397",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0398",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0399",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0400",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0401",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0402",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0403",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0404",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0405",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0406",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0407",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0408",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0409",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0410",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0411",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0412",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0413",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0414",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0415",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0416",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0417",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0418",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0419",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0420",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0421",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0422",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0423",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0424",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0425",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0426",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0427",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0428",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0429",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0430",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0431",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0432",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0433",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0434",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0435",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0436",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0437",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0438",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0439",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0440",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0441",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0442",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0443",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0444",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0445",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0446",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0447",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0448",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0449",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0450",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0451",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0452",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0453",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0454",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0455",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0456",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0457",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0458",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0459",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0460",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0461",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0462",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0463",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0464",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0465",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0466",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0467",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0468",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0469",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0470",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0471",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0472",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0473",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0474",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0475",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0476",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0477",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0478",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0479",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0480",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0481",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0482",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0483",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0484",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0485",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0486",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0487",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0488",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0489",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0490",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0491",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0492",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0493",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0494",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0495",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0496",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0497",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0498",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0499",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0500",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0501",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0502",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0503",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0504",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0505",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0506",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0507",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0508",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0509",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0510",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0511",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0512",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0513",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0514",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0515",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0516",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0517",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0518",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0519",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0520",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0521",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0522",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0523",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0524",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0525",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0526",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0527",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0528",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0529",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0530",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0531",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0532",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0533",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0534",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0535",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0536",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0537",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0538",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0539",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0540",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0541",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0542",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0543",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0544",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0545",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0546",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0547",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0548",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0549",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0550",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0551",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0552",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0553",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0554",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0555",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0556",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0557",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0558",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0559",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0560",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0561",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0562",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0563",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0564",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0565",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0566",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0567",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0568",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0569",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0570",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0571",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0572",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0573",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0574",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0575",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0576",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0577",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0578",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0579",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0580",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0581",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0582",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0583",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0584",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0585",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0586",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0587",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0588",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0589",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0590",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0591",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0592",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0593",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0594",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0595",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0596",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0597",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0598",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0599",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0600",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0601",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0602",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0603",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0604",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0605",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0606",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0607",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0608",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0609",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0610",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0611",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0612",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0613",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0614",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0615",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0616",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0617",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0618",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0619",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0620",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0621",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0622",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0623",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0624",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0625",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0626",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0627",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0628",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0629",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0630",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0631",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0632",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0633",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0634",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0635",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0636",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0637",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0638",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0639",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0640",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0641",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0642",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0643",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0644",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0645",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0646",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0647",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0648",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0649",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0650",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0651",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0652",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0653",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0654",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0655",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0656",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0657",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0658",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0659",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0660",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0661",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0662",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0663",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0664",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0665",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0666",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0667",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0668",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0669",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0670",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0671",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0672",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0673",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0674",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0675",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0676",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0677",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0678",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0679",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0680",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0681",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0682",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0683",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0684",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0685",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0686",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0687",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0688",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0689",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0690",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0691",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0692",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0693",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0694",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0695",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0696",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0697",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0698",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0699",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0700",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0701",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0702",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0703",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0704",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0705",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0706",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0707",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0708",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0709",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0710",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0711",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0712",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0713",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0714",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0715",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0716",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0717",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0718",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0719",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0720",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0721",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0722",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0723",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0724",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0725",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0726",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0727",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0728",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0729",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0730",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0731",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0732",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0733",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0734",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0735",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0736",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0737",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0738",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0739",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0740",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0741",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0742",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0743",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0744",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0745",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0746",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0747",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0748",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0749",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0750",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0751",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0752",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0753",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0754",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0755",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0756",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0757",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0758",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0759",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0760",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0761",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0762",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0763",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0764",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0765",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0766",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0767",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0768",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0769",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0770",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0771",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0772",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0773",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0774",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0775",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0776",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0777",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0778",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0779",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0780",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0781",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0782",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0783",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0784",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0785",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0786",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0787",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0788",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0789",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0790",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0791",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0792",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0793",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0794",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0795",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0796",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0797",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0798",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0799",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0800",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0801",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0802",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0803",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0804",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0805",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0806",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0807",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0808",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0809",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0810",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0811",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0812",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0813",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0814",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0815",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0816",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0817",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0818",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0819",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0820",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0821",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0822",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0823",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0824",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0825",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0826",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0827",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0828",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0829",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0830",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0831",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0832",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0833",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0834",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0835",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0836",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0837",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0838",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0839",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0840",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0841",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0842",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0843",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0844",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0845",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0846",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0847",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0848",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0849",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0850",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0851",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0852",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0853",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0854",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0855",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0856",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0857",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0858",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0859",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0860",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0861",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0862",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0863",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0864",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0865",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0866",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0867",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0868",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0869",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0870",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0871",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0872",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0873",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0874",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0875",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0876",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0877",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0878",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0879",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0880",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0881",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0882",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0883",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0884",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0885",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0886",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0887",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0888",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0889",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0890",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0891",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0892",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0893",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0894",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0895",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0896",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0897",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0898",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0899",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0900",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0901",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0902",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0903",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0904",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0905",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0906",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0907",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0908",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0909",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0910",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0911",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0912",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0913",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0914",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0915",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0916",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0917",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0918",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0919",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0920",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0921",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0922",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0923",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0924",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0925",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0926",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0927",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0928",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0929",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0930",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0931",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0932",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0933",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0934",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0935",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0936",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0937",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0938",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0939",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0940",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0941",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0942",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0943",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0944",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0945",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0946",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0947",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0948",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0949",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0950",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0951",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0952",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0953",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0954",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0955",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0956",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0957",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0958",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0959",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0960",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0961",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0962",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0963",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0964",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0965",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0966",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0967",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0968",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0969",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0970",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0971",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0972",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0973",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0974",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-0975",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  },
+  {
+    "id": "北京-故宫-0976",
+    "name": "故宫",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "forbidden city",
+      "palace museum",
+      "故宫",
+      "紫禁城"
+    ]
+  },
+  {
+    "id": "北京-天坛-0977",
+    "name": "天坛",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "temple of heaven",
+      "天坛"
+    ]
+  },
+  {
+    "id": "北京-颐和园-0978",
+    "name": "颐和园",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "summer palace",
+      "颐和园"
+    ]
+  },
+  {
+    "id": "北京-八达岭长城-0979",
+    "name": "八达岭长城",
+    "city": "北京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "great wall",
+      "badaling",
+      "长城"
+    ]
+  },
+  {
+    "id": "上海-外滩-0980",
+    "name": "外滩",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "the bund",
+      "waitan",
+      "外滩"
+    ]
+  },
+  {
+    "id": "上海-东方明珠-0981",
+    "name": "东方明珠",
+    "city": "上海",
+    "category": "城市风光",
+    "judge_tokens": [
+      "oriental pearl",
+      "东方明珠"
+    ]
+  },
+  {
+    "id": "上海-迪士尼乐园-0982",
+    "name": "迪士尼乐园",
+    "city": "上海",
+    "category": "休闲",
+    "judge_tokens": [
+      "disney",
+      "disneyland",
+      "迪士尼"
+    ]
+  },
+  {
+    "id": "广州-广州塔-0983",
+    "name": "广州塔",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "canton tower",
+      "guangzhou tower",
+      "广州塔"
+    ]
+  },
+  {
+    "id": "广州-陈家祠-0984",
+    "name": "陈家祠",
+    "city": "广州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "chen clan",
+      "chen clan academy",
+      "陈家祠"
+    ]
+  },
+  {
+    "id": "广州-珠江夜游-0985",
+    "name": "珠江夜游",
+    "city": "广州",
+    "category": "城市风光",
+    "judge_tokens": [
+      "pearl river",
+      "珠江"
+    ]
+  },
+  {
+    "id": "深圳-世界之窗-0986",
+    "name": "世界之窗",
+    "city": "深圳",
+    "category": "休闲",
+    "judge_tokens": [
+      "window of the world",
+      "世界之窗"
+    ]
+  },
+  {
+    "id": "深圳-深圳湾公园-0987",
+    "name": "深圳湾公园",
+    "city": "深圳",
+    "category": "自然风光",
+    "judge_tokens": [
+      "shenzhen bay",
+      "深圳湾"
+    ]
+  },
+  {
+    "id": "成都-锦里-0988",
+    "name": "锦里",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "jinli",
+      "锦里"
+    ]
+  },
+  {
+    "id": "成都-宽窄巷子-0989",
+    "name": "宽窄巷子",
+    "city": "成都",
+    "category": "历史文化",
+    "judge_tokens": [
+      "kuanzhai alley",
+      "宽窄巷子"
+    ]
+  },
+  {
+    "id": "成都-成都大熊猫繁育研究基地-0990",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都",
+    "category": "自然风光",
+    "judge_tokens": [
+      "panda",
+      "chengdu research base",
+      "熊猫"
+    ]
+  },
+  {
+    "id": "杭州-西湖-0991",
+    "name": "西湖",
+    "city": "杭州",
+    "category": "自然风光",
+    "judge_tokens": [
+      "west lake",
+      "西湖"
+    ]
+  },
+  {
+    "id": "杭州-灵隐寺-0992",
+    "name": "灵隐寺",
+    "city": "杭州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "lingyin",
+      "lingyin temple",
+      "灵隐寺"
+    ]
+  },
+  {
+    "id": "南京-夫子庙-0993",
+    "name": "夫子庙",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "confucius temple",
+      "夫子庙"
+    ]
+  },
+  {
+    "id": "南京-中山陵-0994",
+    "name": "中山陵",
+    "city": "南京",
+    "category": "历史文化",
+    "judge_tokens": [
+      "sun yat-sen mausoleum",
+      "中山陵"
+    ]
+  },
+  {
+    "id": "苏州-拙政园-0995",
+    "name": "拙政园",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "humble administrator's garden",
+      "拙政园"
+    ]
+  },
+  {
+    "id": "苏州-平江路-0996",
+    "name": "平江路",
+    "city": "苏州",
+    "category": "历史文化",
+    "judge_tokens": [
+      "pingjiang road",
+      "平江路"
+    ]
+  },
+  {
+    "id": "武汉-黄鹤楼-0997",
+    "name": "黄鹤楼",
+    "city": "武汉",
+    "category": "历史文化",
+    "judge_tokens": [
+      "yellow crane tower",
+      "黄鹤楼"
+    ]
+  },
+  {
+    "id": "武汉-东湖-0998",
+    "name": "东湖",
+    "city": "武汉",
+    "category": "自然风光",
+    "judge_tokens": [
+      "east lake",
+      "donghu",
+      "东湖"
+    ]
+  },
+  {
+    "id": "西安-兵马俑-0999",
+    "name": "兵马俑",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "terracotta",
+      "terracotta army",
+      "兵马俑"
+    ]
+  },
+  {
+    "id": "西安-大雁塔-1000",
+    "name": "大雁塔",
+    "city": "西安",
+    "category": "历史文化",
+    "judge_tokens": [
+      "giant wild goose pagoda",
+      "大雁塔"
+    ]
+  }
+]

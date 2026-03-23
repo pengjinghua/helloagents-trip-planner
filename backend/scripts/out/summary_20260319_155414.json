@@ -1,0 +1,24 @@
+{
+  "sample_count": 25,
+  "baseline_mode": "name",
+  "judge_model": "gpt-4o-mini",
+  "baseline_top1_relevance_rate": 0.36,
+  "heuristic_top1_relevance_rate": 0.16,
+  "baseline_zero_recall_rate": 0.32,
+  "heuristic_zero_recall_rate": 0.72,
+  "baseline_hallucination_rate": 0.32,
+  "heuristic_hallucination_rate": 0.12,
+  "strict_filter_ratio_on_baseline_hallucinations": 0.625,
+  "mitigation_ratio_on_baseline_hallucinations": 0.75,
+  "hallucination_reduction_rate": 0.625,
+  "counts": {
+    "baseline_top1_relevant": 9,
+    "heuristic_top1_relevant": 4,
+    "baseline_zero_recall": 8,
+    "heuristic_zero_recall": 18,
+    "baseline_hallucinations": 8,
+    "heuristic_hallucinations": 3,
+    "strict_filtered_from_baseline_hallucinations": 5,
+    "mitigated_from_baseline_hallucinations": 6
+  }
+}

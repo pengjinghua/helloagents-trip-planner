@@ -1,0 +1,23 @@
+{
+  "sample_count": 30,
+  "top_k": 3,
+  "dataset": "d:\\work\\hello-agents\\code\\chapter13\\helloagents-trip-planner\\backend\\scripts\\data\\rag_eval_samples_cn_30.json",
+  "rag_db_dir": "d:\\work\\hello-agents\\code\\chapter13\\helloagents-trip-planner\\backend\\scripts\\out\\rag_eval_chroma_20260320_110644",
+  "baseline": {
+    "name": "title_lexical_only",
+    "top1_accuracy": 0.5,
+    "recall_at_3": 0.8333333333333334,
+    "mrr_at_3": 0.6555555555555556
+  },
+  "rag_chroma": {
+    "name": "chroma_vector_retrieval",
+    "top1_accuracy": 0.9666666666666667,
+    "recall_at_3": 1.0,
+    "mrr_at_3": 0.9777777777777777
+  },
+  "uplift": {
+    "top1_accuracy_pp": 46.666666666666664,
+    "recall_at_3_pp": 16.666666666666664,
+    "mrr_at_3_pp": 32.22222222222222
+  }
+}

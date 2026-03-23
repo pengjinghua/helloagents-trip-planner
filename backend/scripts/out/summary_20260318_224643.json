@@ -1,0 +1,24 @@
+{
+  "sample_count": 5,
+  "baseline_mode": "name",
+  "eval_threshold": 0.15,
+  "baseline_top1_relevance_rate": 0.4,
+  "heuristic_top1_relevance_rate": 0.6,
+  "baseline_zero_recall_rate": 0.4,
+  "heuristic_zero_recall_rate": 0.0,
+  "baseline_hallucination_rate": 0.2,
+  "heuristic_hallucination_rate": 0.4,
+  "strict_filter_ratio_on_baseline_hallucinations": 0.0,
+  "mitigation_ratio_on_baseline_hallucinations": 1.0,
+  "hallucination_reduction_rate": -1.0,
+  "counts": {
+    "baseline_top1_relevant": 2,
+    "heuristic_top1_relevant": 3,
+    "baseline_zero_recall": 2,
+    "heuristic_zero_recall": 0,
+    "baseline_hallucinations": 1,
+    "heuristic_hallucinations": 2,
+    "strict_filtered_from_baseline_hallucinations": 0,
+    "mitigated_from_baseline_hallucinations": 1
+  }
+}
